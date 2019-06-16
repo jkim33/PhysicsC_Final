@@ -12,6 +12,6 @@ If the player successfully launches the ball into the rod, it will stick after m
 
 ### OpenProcessing Version
 https://www.openprocessing.org/sketch/724037
-NOTE: It is slightly different in terms of looks, but the Physics and Gameplay is the same.
+- NOTE: It is slightly different in terms of looks, but the Physics and Gameplay is the same.
 
 ### Demo Video
