@@ -1,2 +1,8 @@
 # PhysicsC_Final
-AP Physics C - Final Project
+## Jason Kim & Dylan Kim
+
+### Description
+
+### How to Play
+
+### How it Works
